@@ -1,0 +1,10 @@
+<plugin>
+    <name>Editor Plugin</name>
+    <version>1.1.0</version>
+    <author>Version 2 Software, LLC</author>
+    <homePage>http://www.version2software.com</homePage>
+    <email>sales@version2software.com</email>
+    <description>Adds a simply peer-to-peer editor to Spark.</description>
+    <class>com.version2software.sparkplug.editor.EditorPlugin</class>
+    <minSparkVersion>2.5.0</minSparkVersion>
+</plugin>
