@@ -5,5 +5,5 @@
 
 
 ## Installation
-* Simply install plugin via the Plugin Viewer in Spark
+* Simply install the plugin via the Plugin Viewer in Spark
 
